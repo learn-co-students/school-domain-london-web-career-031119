@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/school-domain-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Domain Model for a School	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# Domain Model for a School$/;"	function	line:1
+Objectives	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+What is a Domain Model?	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^## What is a Domain Model?$/;"	function	line:9
+Instructions	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:18
+Part 1.	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^### Part 1. $/;"	function	line:22
+Part 2.	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^### Part 2. $/;"	function	line:29
+=> {}	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# => {}$/;"	function	line:35
+Part 3.	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^### Part 3.$/;"	function	line:37
+=> {9 => ["Zach Morris"]}	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# => {9 => ["Zach Morris"]}$/;"	function	line:44
+=> {9 => ["Zach Morris", "AC Slater"], 10 => ["Kelly Kapowski"], 11 => ["Screech"]}	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# => {9 => ["Zach Morris", "AC Slater"], 10 => ["Kelly Kapowski"], 11 => ["Screech"]}$/;"	function	line:81
+Part 4.	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^### Part 4. $/;"	function	line:84
+=> ["Zach Morris", "AC Slater"]	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# => ["Zach Morris", "AC Slater"]$/;"	function	line:90
+Part 5.	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^### Part 5.$/;"	function	line:93
+=> {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^# => {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}$/;"	function	line:99
+Resources	/Users/manon/Development/code/school-domain-london-web-career-031119/README.md	/^## Resources$/;"	function	line:104
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/school-domain-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/school-domain-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/school-domain-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/school-domain-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
