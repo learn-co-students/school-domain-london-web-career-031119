@@ -23,7 +23,4 @@ class School
         roster.each {|k, v| hash[k] = v.sort}
         hash
     end
-
-
-
 end
